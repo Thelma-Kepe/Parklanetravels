@@ -116,7 +116,7 @@ button:hover{
 
 
 
-@media (width < 600px) {
+@media (width < 300px) {
     .content{
         padding: 15px;
         margin-left: 30px;
